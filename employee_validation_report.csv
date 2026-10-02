@@ -1,0 +1,2 @@
+rows,columns,missing_values,duplicate_rows,duplicate_employee_ids,invalid_ages,invalid_salaries,invalid_ratings,invalid_dates
+420,10,0,0,0,0,0,0,0
