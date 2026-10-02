@@ -60,6 +60,15 @@ Apache Kafka
     ↓
 Google BigQuery
     ↓
-SQL
-    ↓
 Streamlit
+
+##Business Recommendations
+
+Based on the analysis, the following areas could be investigated:
+
+Review departmental compensation structures to understand the factors contributing to differences in salary levels across departments.
+- Investigate salary outliers to determine whether unusually high or low salaries are explained by job title, experience, responsibilities or other relevant factors.
+- Avoid relying on performance ratings alone for compensation decisions, as the analysis indicates only a weak linear relationship between performance rating and salary.
+- Conduct regular salary reviews to identify potential inconsistencies in compensation within and across departments.
+- Incorporate additional variables into future analysis, particularly experience, job level, tenure, and responsibilities, to provide a more complete understanding of salary differences.
+- Use the analytical dashboard for ongoing monitoring so management can track changes in salary distributions and workforce characteristics as new data becomes available.
