@@ -62,7 +62,7 @@ Google BigQuery
     ↓
 Streamlit
 
-##Business Recommendations
+## Business Recommendations
 
 Based on the analysis, the following areas could be investigated:
 Review departmental compensation structures to understand the factors contributing to differences in salary levels across departments.
