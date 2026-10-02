@@ -63,6 +63,7 @@ Google BigQuery
 Streamlit
 
 ##Business Recommendations
+
 Based on the analysis, the following areas could be investigated:
 Review departmental compensation structures to understand the factors contributing to differences in salary levels across departments.
 - Investigate salary outliers to determine whether unusually high or low salaries are explained by job title, experience, responsibilities or other  factors.
