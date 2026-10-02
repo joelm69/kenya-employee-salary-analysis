@@ -62,6 +62,7 @@ Google BigQuery
     ↓
 Streamlit
 
+
 ## Business Recommendations
 
 Based on the analysis, the following areas could be investigated:
